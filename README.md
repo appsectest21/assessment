@@ -1,4 +1,4 @@
-# Security Assesment
+# Security Assessment
 1. How to implement kubernetes security, explain with an example ?
 2. Prepare a design of Web application architecture to be deployed on Public cloud, prepare diagram ?
 3. Preapre a document to setup kubernetes cluster on Cloud or On-Prem?
