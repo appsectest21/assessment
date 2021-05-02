@@ -1,7 +1,20 @@
-# Security Assessment
-1. How to implement kubernetes security, explain with an example ?
-2. Prepare a design of Web application architecture to be deployed on Public cloud, prepare diagram ?
-3. Preapre a document to setup kubernetes cluster on Cloud or On-Prem?
-4. Preapre a document explains application deployment process in production.
-5. Implement end to end security for the application running on containerised platform.   
+# Container Security Interview Assessment
+Assessment can be answered in choice of your tool. gitbook, .md file in github, pdf, excel etc can be used. Further interview may be based on the answers provided here
 
+## Generic Questions
+1. What are core principles of Cyber Security ?
+2. Explain what is Infrastructure as Code (IaC)
+3. What are the difference between Encryption, hashing and encoding with a use case of each of them ?
+4. What do you understand by ingress and egress network traffic ?
+
+# Kubernetes Assessment
+1. What are different components in Kubernetes architecture ?
+2. Explain what is vulnerability assessment and what you will do when there is CVE published for Kubernetes ?
+3. Prepare a design diagram of Web application architecture to be deployed on Public cloud, prepare diagram ?
+4. Explain how to setup kubernetes cluster on Cloud or On-Prem?
+5. Explains application deployment process in production.
+
+# Practical Assessment
+1. Create a Kubernetes cluster and deploy nginix webserver. Expose the webserver as a kubernetes service
+  - Show the code that you use to automatically verify the deployment yaml 
+  - Show the code that you have performed build and deploy the application 
