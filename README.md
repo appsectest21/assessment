@@ -16,5 +16,5 @@ Assessment can be answered in choice of your tool. gitbook, .md file in github, 
 
 ## Practical Assessment
 1. Create a Kubernetes cluster and deploy nginix webserver. Expose the webserver as a kubernetes service
-  - Show the code that you use to automatically verify the deployment yaml 
-  - Show the code that you have used to build and deploy the application 
+    - Show the code that you use to automatically verify the deployment yaml 
+    - Show the code that you have used to build and deploy the application 
